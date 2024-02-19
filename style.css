@@ -1,0 +1,10 @@
+body{
+    color: blueviolet;
+    background-color: aquamarine
+  }
+  #camera{
+    border: 2px dashed black;
+    width:350px;
+    height:350px;
+  
+  }
